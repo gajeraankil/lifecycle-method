@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lifecycle-method/static/css/main.e7720ab7.css",
+    "main.js": "/lifecycle-method/static/js/main.2ad17657.js",
+    "static/js/787.2989bae8.chunk.js": "/lifecycle-method/static/js/787.2989bae8.chunk.js",
+    "index.html": "/lifecycle-method/index.html",
+    "main.e7720ab7.css.map": "/lifecycle-method/static/css/main.e7720ab7.css.map",
+    "main.2ad17657.js.map": "/lifecycle-method/static/js/main.2ad17657.js.map",
+    "787.2989bae8.chunk.js.map": "/lifecycle-method/static/js/787.2989bae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.2ad17657.js"
+  ]
+}
